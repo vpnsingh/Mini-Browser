@@ -1,0 +1,25 @@
+c:\users\vipin singh\documents\visual studio 2013\Projects\MiniBrowser\MiniBrowser\bin\Debug\MiniBrowser.exe.config
+c:\users\vipin singh\documents\visual studio 2013\Projects\MiniBrowser\MiniBrowser\bin\Debug\MiniBrowser.exe
+c:\users\vipin singh\documents\visual studio 2013\Projects\MiniBrowser\MiniBrowser\bin\Debug\MiniBrowser.pdb
+c:\users\vipin singh\documents\visual studio 2013\Projects\MiniBrowser\MiniBrowser\bin\Debug\MiniBrowser.xml
+c:\users\vipin singh\documents\visual studio 2013\Projects\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.MiniBrowser.resources
+c:\users\vipin singh\documents\visual studio 2013\Projects\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.Resources.resources
+c:\users\vipin singh\documents\visual studio 2013\Projects\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.vbproj.GenerateResource.Cache
+c:\users\vipin singh\documents\visual studio 2013\Projects\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.exe
+c:\users\vipin singh\documents\visual studio 2013\Projects\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.xml
+c:\users\vipin singh\documents\visual studio 2013\Projects\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.pdb
+C:\Users\Vipin Singh\Documents\Visual Studio 2013\Projects\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.History.resources
+C:\Users\Vipin Singh\Documents\Visual Studio 2013\Projects\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.Properties.resources
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\bin\Debug\MiniBrowser.exe.config
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.exe
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.xml
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.pdb
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\bin\Debug\MiniBrowser.exe
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\bin\Debug\MiniBrowser.pdb
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\bin\Debug\MiniBrowser.xml
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.History.resources
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.MiniBrowser.resources
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.Resources.resources
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.Properties.resources
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.vbproj.GenerateResource.Cache
+C:\Users\Vipin Singh\Desktop\MiniBrowser\MiniBrowser\obj\Debug\MiniBrowser.Incognito.resources
